@@ -1,2 +1,2 @@
 # fileremover
-A simple bash script that ask for files to remove
+A simple bash script that asks for files to be removed
